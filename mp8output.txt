@@ -1,0 +1,106 @@
+Part 1: Testing The Book Class By Ryan Jarl
+
+The Information For Book 1 Is: 
+Author:   No Name
+Title:    Unknown Title
+ISBN:     0
+
+The Information For Book 2 Is: 
+Author:   Jane Smith
+Title:    History Of This World
+ISBN:     12349876
+
+Book 2 Has ISBN: 12349876
+
+Part 2: Establishing The Small Library 
+
+Author:   H. M. Deitel
+Title:    C++ How to Program
+ISBN:     130895717
+
+Author:   Judy Bishop
+Title:    Java Gently
+ISBN:     201593998
+
+Author:   Jeff Salvage
+Title:    The C++ Coach
+ISBN:     201702894
+
+Author:   Thomas Wu
+Title:    Object-Oriented Programming with Java
+ISBN:     256254621
+
+Author:   Cay Horstmann
+Title:    Computing Concepts with C++
+ISBN:     471164372
+
+Author:   Gary Bronson
+Title:    Program Development and Design
+ISBN:     534371302
+
+Author:   Joyce Farrell
+Title:    Object-Oriented Programming
+ISBN:     619033614
+
+Author:   D. S. Malik
+Title:    C++ Programming
+ISBN:     619062134
+
+Author:   James Roberge
+Title:    Introduction to Programming in C++
+ISBN:     669347183
+
+Author:   Nell Dale
+Title:    C++ Plus Data Structures
+ISBN:     763714704
+
+Part 3: Searching The Library For Books By ISBN 
+
+Checking For Book With ISBN: 201593998
+
+Author:   Judy Bishop
+Title:    Java Gently
+ISBN:     201593998
+
+Checking For Book With ISBN: 888899999
+
+ISBN: 888899999  ...Book ISBN Not Found!
+
+Checking For Book With ISBN: 763714704
+
+Author:   Nell Dale
+Title:    C++ Plus Data Structures
+ISBN:     763714704
+
+Checking For Book With ISBN: 111122222
+
+ISBN: 111122222  ...Book ISBN Not Found!
+
+Checking For Book With ISBN: 256254621
+
+Author:   Thomas Wu
+Title:    Object-Oriented Programming with Java
+ISBN:     256254621
+
+Checking For Book With ISBN: 130895717
+
+Author:   H. M. Deitel
+Title:    C++ How to Program
+ISBN:     130895717
+
+Checking For Book With ISBN: 488881111
+
+ISBN: 488881111  ...Book ISBN Not Found!
+
+Checking For Book With ISBN: 534371302
+
+Author:   Gary Bronson
+Title:    Program Development and Design
+ISBN:     534371302
+
+Checking For Book With ISBN: 619033614
+
+Author:   Joyce Farrell
+Title:    Object-Oriented Programming
+ISBN:     619033614
+
