@@ -1,5 +1,5 @@
 /* mp8bookDriver.cpp By Ryan Jarl
-   Created on: Apr 3, 2021*/
+   Created on: Apr 3, 2021 */
 
 #include <iostream>
 #include <fstream>
